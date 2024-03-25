@@ -5,5 +5,6 @@ Here you will find the projects solutions available on the Datacamp platform.
 - [Exploring the History of Lego](https://github.com/guillermovc/Datacamp-Projects/tree/master/Exploring%20the%20History%20of%20Lego/notebook.ipynb)
 - [Clustering Antartic Penguin Species](https://github.com/guillermovc/Datacamp-Projects/tree/master/Clustering%20Antartic%20Penguin%20Species/penguins.ipynb)
 - [Predictive Modeling for Agriculture](https://github.com/guillermovc/Datacamp-Projects/blob/master/Predictive%20Modeling%20for%20Agriculture/notebook.ipynb)
+- [Predicting Movie Rental Durations](https://github.com/guillermovc/Datacamp-Projects/blob/master/Predicting%Movie%Rental%Durations/notebook.ipynb)
 
 Datacamp 💚
